@@ -1,0 +1,11 @@
+{
+  "title": "sidequest",
+  "description": "Discover and explore nearby places with personalized recommendations based on user preferences, budget, and distance for an enhanced adventure.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
